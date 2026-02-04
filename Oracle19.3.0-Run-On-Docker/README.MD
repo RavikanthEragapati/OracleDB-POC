@@ -38,7 +38,7 @@ run the following command to build docker image
     ./buildContainerImage.sh -v 19.3.0 -e
 ```
 
-<textarea rows="10" cols="70" style="overflow-y: scroll;">
+``` cmd
 
 Last login: Tue Feb  3 22:28:46
 ravieragapati@Mac ~ % cd MyPOC 
@@ -202,7 +202,7 @@ Building image 'oracle/database:19.3.0-ee' ...
   
 ravieragapati@Mac dockerfiles % 
 
-</textarea>
+```
 
 
 ## Step 6
